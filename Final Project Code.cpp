@@ -2,10 +2,9 @@
 Name: Manuel Dixon
 Course: CSC242 Intro to Programming Concepts
 Assignment: Assignment 5
-Description: This program completes two Chapter 8 stream projects. The first option runs
-a spell checker for P8.2 by loading a dictionary file and checking an input file for words
-that are not in the dictionary. The second option runs a monoalphabetic cipher for P8.7
-that can encrypt or decrypt a file using a keyword.
+Description: The first option runs a spell checker for P8.2 by loading a dictionary file 
+and checking an input file for words that are not in the dictionary. The second option runs a 
+monoalphabetic cipher for P8.7 that can encrypt or decrypt a file using a keyword.
 */
 
 #include <iostream>
